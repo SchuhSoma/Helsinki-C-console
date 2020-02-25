@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\bin\Debug\Helsinki2.exe.config
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\bin\Debug\Helsinki2.exe
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\bin\Debug\Helsinki2.pdb
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\obj\Debug\Helsinki2.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\obj\Debug\Helsinki2.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\obj\Debug\Helsinki2.exe
+C:\Users\Soma\Documents\C#2\Helsinki2\Helsinki2\obj\Debug\Helsinki2.pdb
